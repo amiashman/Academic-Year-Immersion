@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Pumpkin Price Prediction!</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/styles.css') }}"
+    />
+  </head>
+
+  <body>
+    <div class="grid">
+      <div class="box">
+        <p>
+          According to the packaging of the pumpkins, how expensive will one
+          pumpkin be?
+        </p>
+
+        <form action="{{ url_for('predict')}}" method="post">
+          <input
+            type="number"
+            name="seconds"
+            placeholder="Packaging"
+            required="required"
+            step="0.01"
+            min="0"
+            max="4"
+          />
+          <button type="submit" class="btn">Predict Price</button>
+        </form>
+
+        <p>{{ prediction_text }}</p>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,127 @@
+{
+  "title": {
+    "media": {
+      "url": "//www.flickr.com/photos/tm_10001/2310475988/",
+      "caption": "Whitney Houston performing on her My Love is Your Love Tour in Hamburg.",
+      "credit": "flickr/<a href='http://www.flickr.com/photos/tm_10001/'>tm_10001</a>"
+    },
+    "text": {
+      "headline": "The History of Machine Learning",
+      "text": "Including important milestones in Artificial Intelligence and Machine Learning"
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "start_date": {
+        "month": "",
+        "day": "",
+        "year": "1950"
+      },
+      "text": {
+        "headline": "A Machine that can think",
+        "text": "<p>Alan Turing developed his Turing Test to judge a computers intellegence and ability to replicate human thought.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "start_date": {
+        "month": "",
+        "day": "",
+        "year": "1956"
+      },
+      "text": {
+        "headline": "The Dartmouth Summer Research Project",
+        "text": "<p>Researcher John McCarthy led this great event to develop AI and coined the term 'artificial intelligence'. He and Marvin Minsky would prove to be leaders in this growing field.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://github.com/microsoft/ML-For-Beginners/blob/main/1-Introduction/2-history-of-ML/images/eliza.png",
+        "caption": "Eliza Chatbot",
+        "credit": ""
+      },
+      "start_date": {
+        "month": "",
+        "day": "",
+        "year": "1964"
+      },
+      "text": {
+        "headline": "ELIZA",
+        "text": "<p>Eliza was the first AI-capable chatbot, developed at MIT by Joseph Weizenbaum.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/File:Shakey.png",
+        "caption": "Shakey at the Computer History Museum",
+        "credit": ""
+      },
+      "start_date": {
+        "month": "",
+        "day": "",
+        "year": "1966"
+      },
+      "text": {
+        "headline": "Shakey the Robot",
+        "text": "<p>Shakey was the first general-purpose robot able to intelligently make dicisions and reason about it's actions.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "start_date": {
+        "month": "",
+        "day": "",
+        "year": "1974"
+      },
+      "text": {
+        "headline": "The AI Winter",
+        "text": "<p>Major questions were being asked about AI and limitations were stopping progress from occuring, including an insufficient about of computing power.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "start_date": {
+        "month": "",
+        "day": "",
+        "year": "1980"
+      },
+      "text": {
+        "headline": "The Expert System",
+        "text": "<p>Expert systems were the first commercially susccessful versions of AI, leading to a increase in attention towards neural networks.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "start_date": {
+        "month": "",
+        "day": "",
+        "year": "1956"
+      },
+      "text": {
+        "headline": "Today",
+        "text": "<p>AI is now a part of our everyday lives and have taken a massive affect on the world.</p>"
+      }
+    }
+  ]
+}
